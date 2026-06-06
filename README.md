@@ -1,11 +1,7 @@
 # Audio-Compressor
-# Audio Compressor Circuit
 
-A simple analog audio compressor designed using BC549 transistors and 1N914 diodes. The circuit automatically reduces signal peaks and improves overall audio consistency.
 
-![Schematic](images/schematic.png)
 
----
 
 ## Overview
 
@@ -26,9 +22,7 @@ This project implements an analog dynamic range compressor using discrete transi
 - Built with commonly available components
 - Easy PCB implementation
 
----
 
-## Circuit Diagram
 
 
 
@@ -60,28 +54,3 @@ This project implements an analog dynamic range compressor using discrete transi
 4. Q1 and Q2 create automatic gain control.
 5. Output level remains more consistent.
 
----
-
-## Simulation
-
-Include LTspice/Proteus simulation files here.
-
----
-
-## PCB Design
-
-Add PCB screenshots and Gerber files.
-
----
-
-## Results
-
-- Input waveform screenshots
-- Output waveform screenshots
-- Compression ratio measurements
-
----
-
-## License
-
-Apache-2.0
