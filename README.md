@@ -23,6 +23,10 @@ This project implements an analog dynamic range compressor using discrete transi
 - Easy PCB implementation
 
 
+## Circuit Diagram
+
+![Circuit Diagram](Circuit%20Diagram.jpg)
+
 
 
 
@@ -52,5 +56,19 @@ This project implements an analog dynamic range compressor using discrete transi
 2. Q3 amplifies the signal.
 3. D1 and D2 detect peaks.
 4. Q1 and Q2 create automatic gain control.
-5. Output level remains more consistent.
+
+## Input Waveform
+
+![Input Waveform](Input%20waveform.jpg)
+
+## Output Waveform
+
+![Output Waveform](Output%20Waveform.jpg)
+
+## Prototype
+
+![Prototype](Prototype.jpg)
+
+   
+6. Output level remains more consistent.
 
